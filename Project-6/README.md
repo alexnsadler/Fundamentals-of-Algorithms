@@ -1,1 +1,1 @@
-
+In this final project, students set a collection of points around the Northeastern campus and find the distance between a given point and all of its neighbors. Then, students will format this input so that it can be used in their program to find the shortest path between any two points on the map.
