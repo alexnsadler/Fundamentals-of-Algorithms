@@ -1,1 +1,1 @@
-
+In this problem students implement the event‐driven simulation of a bank customer service. In this simulation the customers’ arrival and departure events in a priority queue must be maintained, prioritized by the time of the event (the sooner the time the higher the priority). Another regular queue must be used to maintain the bank waiting line where the already arrived customers wait to be serviced.
