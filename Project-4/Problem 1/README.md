@@ -1,1 +1,1 @@
-
+In this problem students test and analyze the following sorting algorithms: Selection, Bubble, Insertion, Merge, and Quick. After implenting each of these algorithms in C++, students will compare the performance of these algorithms by counting up how many comparisons and "moves" each algorithm makes.
